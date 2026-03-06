@@ -113,4 +113,4 @@ This project is **open-source** and intended for **educational and portfolio use
 
 ## Author
 
-Designed and developed by **Your Name**
+Designed and developed by **Zaman Siraj**
