@@ -69,9 +69,6 @@ All logic is handled in-memory, making the app lightweight, fast, and easy to ru
    ```bash
    java App
    ```
-
-> No build tools, frameworks, or external libraries required.
-
 ---
 
 ## UI Layout
