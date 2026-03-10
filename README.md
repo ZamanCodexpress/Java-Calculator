@@ -1,4 +1,4 @@
-# Java Calculator
+# Calculator — Java Edition
 A sleek **desktop Calculator application** built using **Java and Swing**. The application replicates the look and feel of the iOS calculator — featuring a dark theme, operator highlighting, and smooth arithmetic operations — all with zero external dependencies.
 
 ---
